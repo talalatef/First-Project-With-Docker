@@ -1,0 +1,7 @@
+.git
+.gitignore
+README.md
+DOCKERHUB.md
+node_modules
+npm-debug.log
+.DS_Store
